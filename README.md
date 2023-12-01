@@ -4,3 +4,4 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5581998299028&text=Hi!)](https://api.whatsapp.com/send?phone=5581998299028&text=Hi!)
 
 I'm a developer, working with React, Redux and Ruby on Rails.
+[![GitHub Trends SVG](https://api.githubtrends.io/dalima-dev/svg/avgupta456/langs)](https://githubtrends.io)
