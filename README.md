@@ -6,7 +6,7 @@ I'm a software engineer, specialized in frontend development with React, as well
 
 - **Languages:** JavaScript, Typescript and Ruby.
 - **Frameworks/Libraries:** React, Redux Toolkit, Ruby on Rails and other related libraries.
-- **Databases:** PostgreSQL (SQL)
+- **Databases:** PostgreSQL
 
 ## 💼 Experience
 
